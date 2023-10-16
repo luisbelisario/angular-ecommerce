@@ -1,0 +1,6 @@
+.ekart--container {
+    margin: 20px auto;
+    padding:  0px 30vh;
+    min-height: 800px;
+    display: flex;
+}
